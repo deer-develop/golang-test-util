@@ -2,7 +2,7 @@ package gomockUtil
 
 import (
 	"fmt"
-	"iot-translator/util/test/matcher"
+	"github.com/deer-develop/golang-test-util/matcher"
 )
 
 func NewJsonMatcher() *GomockJsonMatcher {
