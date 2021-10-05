@@ -2,7 +2,7 @@ package matcher
 
 import (
 	"fmt"
-	gojsonq "github.com/thedevsaddam/gojsonq/v2"
+	"github.com/thedevsaddam/gojsonq/v2"
 	"math"
 	"reflect"
 )
